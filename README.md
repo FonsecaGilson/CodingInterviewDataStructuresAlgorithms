@@ -1,2 +1,1 @@
-# CodingInterviewDataStructuresAlgorithms
-Coding Interview: Data Structures + Algorithms
+# Coding Interview: DataStructures + Algorithms
